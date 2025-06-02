@@ -1,0 +1,295 @@
+{
+  "seller": [
+    {
+      "id": "b4ee",
+      "name": "Abhilasha Sharma",
+      "email": "570abhilasha@gmail.com",
+      "passward": "abc@123"
+    },
+    {
+      "id": "44c6",
+      "name": "Pragya Sharma",
+      "email": "570pragya@gmail.com",
+      "passward": "pra@123"
+    },
+    {
+      "id": "b958",
+      "name": "tony yadav",
+      "passward": "tony@1223",
+      "email": "tony233@gmail.com"
+    },
+    {
+      "id": "9efa",
+      "name": "Shalu sharma",
+      "passward": "shalu@123",
+      "email": "shalu123@gmail.com"
+    },
+    {
+      "id": "ce32",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "cc31",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "5a41",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "157e",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "094e",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "7234",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "9268",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "b8d1",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "6df4",
+      "name": "nirbhay pandy",
+      "passward": "nir@1234",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "df47",
+      "name": "Shalu sharma",
+      "passward": "shalu23@1223",
+      "email": "shalu123@gmail.com"
+    },
+    {
+      "id": "c222",
+      "name": "nirbhay pandy",
+      "passward": "3456",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "22f6",
+      "name": "nirbhay sharma",
+      "passward": "3456",
+      "email": "nirbhay123@gmail.com"
+    },
+    {
+      "id": "2ca2",
+      "name": "medha sharma",
+      "passward": "med@123",
+      "email": "medha123@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "79ad",
+      "name": "Velcro Closure Sports Shoes",
+      "price": "1647",
+      "color": "black",
+      "category": "shoes",
+      "description": "fabric is good for kids",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/zoom/19525115a.webp"
+    },
+    {
+      "id": "0c41",
+      "name": "Women Knitted Sweater",
+      "price": "999",
+      "color": "brown",
+      "category": "clothes",
+      "description": "efficent",
+      "image": "https://media.landmarkshops.in/cdn-cgi/image/h=1200,w=1200,q=85,fit=cover/max-new/1000014414834-Beige-BEIGE-1000014219455_01-2100.jpg"
+    },
+    {
+      "id": "f8a8",
+      "name": "Automatic Multicolor Watch",
+      "price": "19170",
+      "color": "red",
+      "category": "watch",
+      "description": "good quality",
+      "image": "https://th.bing.com/th/id/OIP.ZpqYYg92mvleNoLLUjSX8QHaHj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "d341",
+      "name": "Beauty Of Joseon Glow Serum",
+      "price": "1400",
+      "color": "yellow",
+      "category": "cosmetic product",
+      "description": "good for oily and dry skin ",
+      "image": "https://cdn.shopify.com/s/files/1/2533/4170/products/17183713_1_1024x1024.jpg?v=1610350597"
+    },
+    {
+      "id": "ddef",
+      "name": " Naykkaa herbal Naturals Sheet Mask",
+      "price": "225",
+      "color": "white",
+      "category": "cosmetic product",
+      "description": "helps to make your skin healthy",
+      "image": "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/face-mask/ageless-white-serum-sheet-mask/ageless-white-serum-sheet-mask-32g/6970175255847_t1.jpg"
+    },
+    {
+      "id": "9450",
+      "name": "IdeaPad Slim 5i 13th Gen, 35.56cms - Intel i5",
+      "price": "67490",
+      "color": "grey",
+      "category": "laptop",
+      "description": "good laptop to perchase",
+      "image": "https://p1-ofp.static.pub//medias/25730676946_CG_MEALNP_202304120105131687452910754.png"
+    },
+    {
+      "id": "0fcc",
+      "name": "Alife And Kickin ColetteAK B Ladies",
+      "price": "2100",
+      "color": "yellow",
+      "category": "clothes",
+      "description": "good choice to look good",
+      "image": "https://img.kwcdn.com/product/1d65862c4c/5dbff22d-2ad2-4e1c-8614-37ed334bcbae_1350x1800.jpeg.a.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "24ba",
+      "name": "Abhilasha",
+      "passward": "abhi@123",
+      "email": "570abhi@gmail.com"
+    },
+    {
+      "id": "3dbe",
+      "name": "rajrani",
+      "passward": "raj@123",
+      "email": "raj123@gmail.com"
+    },
+    {
+      "id": "5de4",
+      "name": "Shalu sharma",
+      "passward": "23456",
+      "email": "shalu123@gmail.com"
+    },
+    {
+      "id": "def3",
+      "name": "rajrani",
+      "passward": "2455666",
+      "email": "raj123@gmail.com"
+    },
+    {
+      "id": "a5af",
+      "name": "",
+      "passward": "",
+      "email": ""
+    },
+    {
+      "id": "f1e6",
+      "name": "Shalu sharma",
+      "passward": "234567",
+      "email": "shalu123@gmail.com"
+    },
+    {
+      "id": "bdd5",
+      "name": "Shalu sharma",
+      "password": "23456",
+      "email": "shalu123@gmail.com"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3938",
+      "name": "Velcro Closure Sports Shoes",
+      "price": "1647",
+      "color": "black",
+      "category": "shoes",
+      "description": "fabric is good for kids",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/zoom/19525115a.webp",
+      "quantity": 1,
+      "productId": "79ad",
+      "userId": "24ba"
+    },
+    {
+      "id": "3629",
+      "name": "Beauty Of Joseon Glow Serum",
+      "price": "1400",
+      "color": "yellow",
+      "category": "cosmetic product",
+      "description": "good for oily and dry skin ",
+      "image": "https://cdn.shopify.com/s/files/1/2533/4170/products/17183713_1_1024x1024.jpg?v=1610350597",
+      "quantity": 1,
+      "productId": "d341",
+      "userId": "24ba"
+    },
+    {
+      "id": "df21",
+      "name": "Women Knitted Sweater",
+      "price": "999",
+      "color": "brown",
+      "category": "clothes",
+      "description": "efficent",
+      "image": "https://media.landmarkshops.in/cdn-cgi/image/h=1200,w=1200,q=85,fit=cover/max-new/1000014414834-Beige-BEIGE-1000014219455_01-2100.jpg",
+      "quantity": 1,
+      "productId": "0c41",
+      "userId": "24ba"
+    },
+    {
+      "id": "b36e",
+      "name": "IdeaPad Slim 5i 13th Gen, 35.56cms - Intel i5",
+      "price": "67490",
+      "color": "grey",
+      "category": "laptop",
+      "description": "good laptop to perchase",
+      "image": "https://p1-ofp.static.pub//medias/25730676946_CG_MEALNP_202304120105131687452910754.png",
+      "quantity": 1,
+      "productId": "9450",
+      "userId": "24ba"
+    },
+    {
+      "id": "c67f",
+      "name": "Automatic Multicolor Watch",
+      "price": "19170",
+      "color": "red",
+      "category": "watch",
+      "description": "good quality",
+      "image": "https://th.bing.com/th/id/OIP.ZpqYYg92mvleNoLLUjSX8QHaHj?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "f8a8",
+      "userId": "24ba"
+    }
+  ],
+  "orders": [
+    {
+      "id": "bb99",
+      "email": "raj123@gmail.com",
+      "address": "massori(gzb)",
+      "contact": 8869077020,
+      "totalPrice": 62424.99,
+      "userId": "3dbe"
+    },
+    {
+      "id": "7ae2",
+      "email": "raj123@gmail.com",
+      "address": "massori(gzb)",
+      "contact": 8869077020,
+      "totalPrice": 1918.18,
+      "userId": "3dbe"
+    }
+  ]
+}
